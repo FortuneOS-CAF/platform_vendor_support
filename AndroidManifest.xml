@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.superior.support">
+    package="org.fortune.framework">
 
     <uses-sdk
         android:minSdkVersion="27" />
